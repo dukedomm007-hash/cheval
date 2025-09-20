@@ -145,10 +145,12 @@ export default function App() {
       <section className="py-12 px-4 bg-white">
         <div className="max-w-6xl mx-auto flex flex-col lg:flex-row items-center gap-8">
           <div className="lg:w-1/2">
-            <h2 className="text-3xl font-bold text-green-900 mb-4">Professional Surveying Solutions</h2>
+            <h1 className="text-4xl font-bold text-green-900 mb-4">
+              Professional Land Survey Services in Lagos, Nigeria
+            </h1>
             <p className="text-lg text-gray-700 mb-6">
               Using state-of-the-art surveying equipment and cutting-edge technology, we deliver precise measurements
-              and accurate mapping solutions for all your land surveying needs across Nigeria.
+              and accurate mapping solutions for all your land surveying needs across Lagos and Nigeria.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button
@@ -559,10 +561,10 @@ export default function App() {
       <section className="py-12 px-4 max-w-4xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-6">Our Mission</h2>
         <p className="text-lg text-center">
-          At Che-val Mapping Consult, our mission is to deliver precise, accurate, reliable, and innovative surveying
-          solutions powered by cutting-edge technologies that surpass client expectations. We commit to upholding the
-          highest standards of professionalism and integrity, while addressing land disputes, streamlining processes,
-          and promoting efficient land management in Nigeria's evolving landscape.
+          At Che-val Mapping Consult, our mission is to deliver precise, accurate, reliable, and innovative land survey
+          services in Lagos and across Nigeria. We use cutting-edge technologies that surpass client expectations while
+          upholding the highest standards of professionalism and integrity, addressing land disputes, streamlining
+          processes, and promoting efficient land management in Nigeria's evolving landscape.
         </p>
       </section>
 
@@ -570,8 +572,8 @@ export default function App() {
       <section className="py-12 px-4 bg-white max-w-4xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-6">Our Vision</h2>
         <p className="text-lg text-center">
-          To become a leading provider of surveying services in Nigeria and beyond, serving high-end clients and
-          underserved communities alike in resolving land matters. We aim to empower communities, foster sustainable
+          To become the leading provider of land survey services in Lagos, Nigeria and beyond, serving high-end clients
+          and underserved communities alike in resolving land matters. We aim to empower communities, foster sustainable
           development, and drive economic growth through reliable, innovative, and environmentally conscious surveying
           practices.
         </p>
@@ -582,8 +584,8 @@ export default function App() {
         <h2 className="text-3xl font-semibold text-center mb-6">Our Core Values</h2>
         <ul className="list-disc list-inside space-y-4 text-lg">
           <li>
-            <strong>Accuracy and Precision:</strong> Delivering high-quality, error-free survey data and results to
-            minimize disputes and ensure reliable land management.
+            <strong>Accuracy and Precision:</strong> Delivering high-quality, error-free survey data and results for
+            land survey services in Lagos to minimize disputes and ensure reliable land management.
           </li>
           <li>
             <strong>Integrity and Professionalism:</strong> Upholding ethical standards, honesty, and professionalism in
@@ -620,11 +622,11 @@ export default function App() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-green-900 mb-4">Our Surveying Services</h2>
+            <h2 className="text-4xl font-bold text-green-900 mb-4">Our Land Survey Services in Lagos</h2>
             <p className="text-lg text-gray-700 max-w-3xl mx-auto">
-              We provide professional surveying and geospatial solutions designed to support property ownership,
-              infrastructure development, and sustainable land use using state-of-the-art technology and industry best
-              practices.
+              We provide professional land survey services in Lagos and geospatial solutions designed to support
+              property ownership, infrastructure development, and sustainable land use using state-of-the-art technology
+              and industry best practices.
             </p>
           </div>
 
@@ -642,21 +644,22 @@ export default function App() {
                     />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-green-900">Land & Property Surveys</h3>
+                <h3 className="text-xl font-bold text-green-900">Land & Property Survey Services</h3>
               </div>
               <div className="space-y-4">
                 <div>
-                  <h4 className="font-semibold text-gray-800 mb-2">Boundary & Cadastral Surveys</h4>
+                  <h4 className="font-semibold text-gray-800 mb-2">Boundary & Cadastral Surveys in Lagos</h4>
                   <p className="text-gray-600 text-sm">
                     Accurate determination and demarcation of property boundaries for title documentation, land
-                    registration, and ownership verification. Ensures legal compliance and minimizes boundary disputes.
+                    registration, and ownership verification in Lagos. Ensures legal compliance and minimizes boundary
+                    disputes.
                   </p>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-gray-800 mb-2">Topographic Surveys</h4>
+                  <h4 className="font-semibold text-gray-800 mb-2">Topographic Surveys Lagos</h4>
                   <p className="text-gray-600 text-sm">
                     High-precision mapping of terrain features—both natural and built—to provide essential data for
-                    architectural design, housing, infrastructure, and community planning.
+                    architectural design, housing, infrastructure, and community planning in Lagos.
                   </p>
                 </div>
               </div>
@@ -675,21 +678,21 @@ export default function App() {
                     />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-green-900">Engineering & Construction</h3>
+                <h3 className="text-xl font-bold text-green-900">Engineering & Construction Survey Services</h3>
               </div>
               <div className="space-y-4">
                 <div>
-                  <h4 className="font-semibold text-gray-800 mb-2">Construction Surveys</h4>
+                  <h4 className="font-semibold text-gray-800 mb-2">Construction Surveys Lagos</h4>
                   <p className="text-gray-600 text-sm">
-                    Precision setting-out of design structures on-site, including layout, alignments, elevations, and
-                    control points to ensure construction accuracy.
+                    Precision setting-out of design structures on-site in Lagos, including layout, alignments,
+                    elevations, and control points to ensure construction accuracy.
                   </p>
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800 mb-2">Site Planning & Environmental Analysis</h4>
                   <p className="text-gray-600 text-sm">
-                    Comprehensive site evaluations including feasibility studies, drainage analysis, and environmental
-                    impact assessments to guide sustainable development decisions.
+                    Comprehensive site evaluations in Lagos including feasibility studies, drainage analysis, and
+                    environmental impact assessments to guide sustainable development decisions.
                   </p>
                 </div>
               </div>
@@ -708,13 +711,13 @@ export default function App() {
                     />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-green-900">Land Development Support</h3>
+                <h3 className="text-xl font-bold text-green-900">Land Development Support Lagos</h3>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-800 mb-2">Land Planning & Subdivision Design</h4>
                 <p className="text-gray-600 text-sm">
-                  Professional guidance in land-use planning, subdivision layout, and zoning compliance, enabling
-                  optimized land utilization and streamlined development approvals.
+                  Professional guidance in land-use planning, subdivision layout, and zoning compliance in Lagos,
+                  enabling optimized land utilization and streamlined development approvals.
                 </p>
               </div>
             </div>
@@ -732,21 +735,21 @@ export default function App() {
                     />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-green-900">Geospatial, Remote Sensing & Control</h3>
+                <h3 className="text-xl font-bold text-green-900">Geospatial & GPS Survey Services</h3>
               </div>
               <div className="space-y-4">
                 <div>
                   <h4 className="font-semibold text-gray-800 mb-2">Geodetic & GPS Control Surveys</h4>
                   <p className="text-gray-600 text-sm">
                     Establishment of highly accurate geospatial reference frameworks using GPS/GNSS and geodetic
-                    techniques for mapping, infrastructure monitoring, and large-scale engineering projects.
+                    techniques for mapping, infrastructure monitoring, and large-scale engineering projects in Lagos.
                   </p>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-gray-800 mb-2">Drone (UAV) Surveys</h4>
+                  <h4 className="font-semibold text-gray-800 mb-2">Drone (UAV) Survey Services Lagos</h4>
                   <p className="text-gray-600 text-sm">
                     Use of Unmanned Aerial Vehicles (drones) equipped with high-resolution cameras, LiDAR, and
-                    photogrammetry software to capture detailed aerial imagery and 3D models. Provides fast,
+                    photogrammetry software to capture detailed aerial imagery and 3D models in Lagos. Provides fast,
                     cost-effective, and accurate mapping for land development, construction monitoring, agriculture, and
                     environmental studies.
                   </p>
@@ -767,13 +770,13 @@ export default function App() {
                     />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-green-900">Water & Environmental</h3>
+                <h3 className="text-xl font-bold text-green-900">Water & Environmental Survey Services</h3>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-800 mb-2">Hydrographic & Bathymetric Surveys</h4>
                 <p className="text-gray-600 text-sm">
-                  Detailed measurement and mapping of rivers, lakes, reservoirs, and coastal areas for navigation,
-                  dredging, marine construction, and environmental studies.
+                  Detailed measurement and mapping of rivers, lakes, reservoirs, and coastal areas in Lagos for
+                  navigation, dredging, marine construction, and environmental studies.
                 </p>
               </div>
             </div>
@@ -791,25 +794,28 @@ export default function App() {
                     />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold">Why Choose Us</h3>
+                <h3 className="text-xl font-bold">Why Choose Our Land Survey Services in Lagos</h3>
               </div>
               <div className="space-y-3">
                 <div>
                   <h4 className="font-semibold mb-1">Accuracy & Reliability</h4>
                   <p className="text-green-100 text-sm">
-                    Advanced surveying instruments, GPS/GNSS systems, and geospatial software ensure dependable results.
+                    Advanced surveying instruments, GPS/GNSS systems, and geospatial software ensure dependable results
+                    for all land survey services in Lagos.
                   </p>
                 </div>
                 <div>
                   <h4 className="font-semibold mb-1">Industry Expertise</h4>
                   <p className="text-green-100 text-sm">
-                    Our team combines technical know-how with practical field experience across multiple industries.
+                    Our team combines technical know-how with practical field experience across multiple industries in
+                    Lagos and Nigeria.
                   </p>
                 </div>
                 <div>
                   <h4 className="font-semibold mb-1">Client-Centered Approach</h4>
                   <p className="text-green-100 text-sm">
-                    We tailor every project to meet client objectives, regulatory standards, and sustainability goals.
+                    We tailor every land survey project in Lagos to meet client objectives, regulatory standards, and
+                    sustainability goals.
                   </p>
                 </div>
               </div>
@@ -820,8 +826,8 @@ export default function App() {
           <div className="text-center mt-12">
             <p className="text-lg text-gray-700 mb-6">
               At the core of our work is a commitment to precision, innovation, and client satisfaction. Whether for
-              property ownership, infrastructure development, or environmental management, we provide the insights and
-              data that help you build with confidence.
+              property ownership, infrastructure development, or environmental management in Lagos, we provide the
+              insights and data that help you build with confidence.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button
@@ -846,9 +852,9 @@ export default function App() {
         <h2 className="text-3xl font-semibold text-center mb-6">Our Value Proposition</h2>
         <ul className="list-disc list-inside space-y-4 text-lg">
           <li>
-            <strong>Trusted Partners for Tailored Solutions:</strong> We serve as reliable surveying partners, offering
-            innovative, cost-effective, and sustainable solutions customized to clients' unique needs, helping navigate
-            Nigeria's complex land administration challenges.
+            <strong>Trusted Partners for Tailored Solutions:</strong> We serve as reliable land survey partners in
+            Lagos, offering innovative, cost-effective, and sustainable solutions customized to clients' unique needs,
+            helping navigate Nigeria's complex land administration challenges.
           </li>
           <li>
             <strong>Reliable and Timely Services:</strong> Providing accurate, dependable, and prompt surveying services
@@ -864,10 +870,10 @@ export default function App() {
 
       {/* Land Guardian Quest Section */}
       <section className="py-12 px-4 max-w-4xl mx-auto bg-green-50">
-        <h2 className="text-3xl font-semibold text-center mb-6">Land Guardian Quest: Protect Your Property</h2>
+        <h2 className="text-3xl font-semibold text-center mb-6">Land Guardian Quest: Protect Your Property in Lagos</h2>
         <p className="text-lg text-center mb-8">
-          Take our free interactive quiz to assess your land's risks and learn how to safeguard your property in
-          Nigeria's complex landscape!
+          Take our free interactive quiz to assess your land's risks and learn how to safeguard your property in Lagos
+          and Nigeria's complex landscape!
         </p>
 
         {!showResult ? (
