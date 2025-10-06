@@ -80,7 +80,7 @@ export default function App() {
 
   const handleEmailContact = () => {
     window.location.href =
-      "mailto:che-valmappingconsult@gmail.com?subject=Free Consultation Request&body=Hello, I would like to schedule a free consultation for surveying services."
+      "mailto:chevalmappingconsult@gmail.com?subject=Free Consultation Request&body=Hello, I would like to schedule a free consultation for surveying services."
   }
 
   const handleSMSContact = () => {
@@ -97,7 +97,7 @@ export default function App() {
 
   const handleQuoteEmailContact = () => {
     window.location.href =
-      "mailto:che-valmappingconsult@gmail.com?subject=Quote Request&body=Hello, I would like to request a quote for surveying services."
+      "mailto:chevalmappingconsult@gmail.com?subject=Quote Request&body=Hello, I would like to request a quote for surveying services."
   }
 
   const handleQuoteSMSContact = () => {
@@ -131,7 +131,7 @@ export default function App() {
     const endDate = new Date(startDate)
     endDate.setHours(11, 0, 0, 0) // 11 AM (1 hour duration)
 
-    const googleCalendarUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=Surveying Consultation - Che-val Mapping Consult&dates=${startDate.toISOString().replace(/[-:]/g, "").split(".")[0]}Z/${endDate.toISOString().replace(/[-:]/g, "").split(".")[0]}Z&details=Free consultation with Che-val Mapping Consult regarding surveying services. Please contact che-valmappingconsult@gmail.com or +234-916-917-7955 to confirm.&location=Virtual Meeting&sf=true&output=xml`
+    const googleCalendarUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=Surveying Consultation - Che-val Mapping Consult&dates=${startDate.toISOString().replace(/[-:]/g, "").split(".")[0]}Z/${endDate.toISOString().replace(/[-:]/g, "").split(".")[0]}Z&details=Free consultation with Che-val Mapping Consult regarding surveying services. Please contact chevalmappingconsult@gmail.com or +234-916-917-7955 to confirm.&location=Virtual Meeting&sf=true&output=xml`
 
     window.open(googleCalendarUrl, "_blank")
   }
@@ -213,7 +213,7 @@ export default function App() {
                     d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                Email: che-valmappingconsult@gmail.com
+                Email: chevalmappingconsult@gmail.com
               </button>
 
               <button
@@ -256,7 +256,7 @@ export default function App() {
                     d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                Email: che-valmappingconsult@gmail.com
+                Email: chevalmappingconsult@gmail.com
               </button>
 
               <button
@@ -951,7 +951,7 @@ export default function App() {
       {/* Footer */}
       <footer className="bg-green-900 text-white py-6 text-center">
         <p>&copy; 2025 Che-val Mapping Consult. All rights reserved.</p>
-        <p id="contact">Contact us: che-valmappingconsult@gmail.com | +234-916-917-7955</p>
+        <p id="contact">Contact us: chevalmappingconsult@gmail.com | +234-916-917-7955</p>
       </footer>
     </div>
   )
